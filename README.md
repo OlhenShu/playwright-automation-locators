@@ -1,6 +1,6 @@
-# Автоматизація тестування реєстрації / Registration test automation (Playwright + TypeScript)
+# Автоматизація тестування форми реєстрації / Registration form test automation (Playwright + TypeScript)
 
-Навчальний проєкт для перших кроків у Playwright. Ваше завдання — **автоматизувати тестування форми реєстрації користувача** сайту TeachUA / Speak Ukrainian на основі готових тест-кейсів.
+Навчальний проєкт для Playwright. Ваше завдання — **автоматизувати тестування форми реєстрації користувача** сайту TeachUA / Speak Ukrainian на основі готових тест-кейсів.
 
 A learning project for your first steps in Playwright. Your task is to **automate testing of the user registration form** on the TeachUA / Speak Ukrainian site based on the provided test cases.
 
@@ -14,7 +14,7 @@ A learning project for your first steps in Playwright. Your task is to **automat
 
 1. Прочитайте тест-кейси в папці [`docs/test-cases/registration`](./docs/test-cases/registration/README.md).
 2. Для кожного тест-кейсу напишіть автотест на Playwright + TypeScript у папці `tests/`.
-3. Перевіряйте лише те, що видно в інтерфейсі (UI): тексти, повідомлення, стан кнопок, видимість модалки. **Перевірки HTTP-запитів робити не потрібно.**
+3. Перевіряйте лише те, що видно в інтерфейсі (UI): тексти, повідомлення, стан кнопок, видимість модалки.
 
 ### Тест-кейси
 
@@ -74,7 +74,7 @@ A learning project for your first steps in Playwright. Your task is to **automat
 
 1. Read the test cases in [`docs/test-cases/registration`](./docs/test-cases/registration/README.md).
 2. Write a Playwright + TypeScript test for each test case in the `tests/` folder.
-3. Assert only what is visible in the UI: texts, messages, button states, modal visibility. **You do not need to check HTTP requests.**
+3. Assert only what is visible in the UI: texts, messages, button states, modal visibility.
 
 ### Test cases
 
